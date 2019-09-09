@@ -1,0 +1,26 @@
+# Tor state file last generated on 2019-09-09 15:57:39 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+Guard in=default rsa_id=4B68D0E5392ED6F3469A37880631353A96558631 nickname=TORion sampled_on=2019-09-07T21:14:49 sampled_by=0.3.5.8-dev listed=1 confirmed_on=2019-09-03T22:17:55 confirmed_idx=2
+Guard in=default rsa_id=395D293263E9DEEC1874503D45B8543DABACC694 nickname=snukafly sampled_on=2019-09-04T12:19:21 sampled_by=0.3.5.8-dev listed=1
+Guard in=default rsa_id=06BBEAA6F73759A1795EB461D39D2AA168F305D1 nickname=r sampled_on=2019-09-08T18:09:11 sampled_by=0.3.5.8-dev listed=1
+Guard in=default rsa_id=E7882187F6FA695450719FD3738D640FBDFF5D48 nickname=quatermain sampled_on=2019-09-06T23:07:49 sampled_by=0.3.5.8-dev listed=1
+Guard in=default rsa_id=5DB9AE27A44EB7B476CC04A66C67A71C97A001E6 nickname=Chenjesu sampled_on=2019-09-08T07:38:36 sampled_by=0.3.5.8-dev listed=1
+Guard in=default rsa_id=3D9CE80399B68C01377FEC42395E399B9ED16E18 nickname=megatot sampled_on=2019-09-06T23:52:30 sampled_by=0.3.5.8-dev listed=1
+Guard in=default rsa_id=CE3FE883C6C9EF475EA097DC3E33A6F32B852DA1 nickname=AIKO sampled_on=2019-09-01T05:06:50 sampled_by=0.3.5.8-dev listed=1
+Guard in=default rsa_id=95FCD71974985F8CB546821E3DC4D834794F77F9 nickname=FabulousMonkey sampled_on=2019-09-06T18:35:42 sampled_by=0.3.5.8-dev listed=1
+Guard in=default rsa_id=008E7B70C3B4A7520B5BEAB8067ABCDC8E63F1FD nickname=zech1989 sampled_on=2019-09-05T13:22:21 sampled_by=0.3.5.8-dev listed=1
+Guard in=default rsa_id=4A93E4E63D78602D1B0E853E70240C64B25692C4 nickname=TrusterX sampled_on=2019-09-04T07:32:53 sampled_by=0.3.5.8-dev listed=1
+Guard in=default rsa_id=5DE37A3371AAE7638748EB43C9F1CE66E09D4470 nickname=niftylinkrat sampled_on=2019-09-08T21:12:56 sampled_by=0.3.5.8-dev listed=1
+Guard in=default rsa_id=6B9EA8927AB6E94E216067E65372182343A5AFA2 nickname=angelinajolie sampled_on=2019-09-01T13:32:25 sampled_by=0.3.5.8-dev listed=1
+Guard in=default rsa_id=F0C9513539800F762ECAE37F16370D7CBA5E52C2 nickname=Scrubs sampled_on=2019-08-30T03:32:08 sampled_by=0.3.5.8-dev listed=1
+Guard in=default rsa_id=D74F619C74C2E601A39EBE58C8E34DFEB3BADE99 nickname=CodainGate sampled_on=2019-08-30T02:46:03 sampled_by=0.3.5.8-dev listed=1 confirmed_on=2019-09-03T05:06:09 confirmed_idx=1
+Guard in=default rsa_id=BAE10387321FDD3279EA44320720B919777FE640 nickname=cubieserver sampled_on=2019-09-07T16:05:29 sampled_by=0.3.5.8-dev listed=1
+Guard in=default rsa_id=AC62969F1B1E604EEFCE9B457ABC493AABC62849 nickname=computecyplonet sampled_on=2019-09-07T01:55:55 sampled_by=0.3.5.8-dev listed=1
+Guard in=default rsa_id=E3A385DF5BCE12637211D4D1DF4703C4B1EB4560 nickname=Unnamed sampled_on=2019-09-04T17:20:18 sampled_by=0.3.5.8-dev listed=1 confirmed_on=2019-09-07T19:14:33 confirmed_idx=0 pb_use_attempts=75.765625 pb_use_successes=75.765625 pb_circ_attempts=182.000000 pb_circ_successes=176.500000 pb_successful_circuits_closed=176.500000 pb_timeouts=1.500000
+Guard in=default rsa_id=D971A4E181162BD99FEE4C2AD605D604A4FD5D4B nickname=nickesrelay4 sampled_on=2019-09-01T08:49:39 sampled_by=0.3.5.8-dev listed=1
+Guard in=default rsa_id=484A10BA2B8D48A5F0216674C8DD50EF27BC32F3 nickname=Aerodynamik03 sampled_on=2019-09-08T02:54:30 sampled_by=0.3.5.8-dev listed=1
+Guard in=default rsa_id=2BA2C8E96B2590E1072AECE2BDB5C48921BF8510 nickname=storm sampled_on=2019-08-31T17:02:26 sampled_by=0.3.5.8-dev listed=1
+TorVersion Tor 0.3.5.8-dev (git-da728e36f4579907)
+LastWritten 2019-09-09 08:57:39
